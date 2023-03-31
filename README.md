@@ -7,12 +7,12 @@ The app is connected to Firebase which is where users' accounts are stored. Alar
 
 ## Screenshots
 
-Login/Register Page | Login/Register Page
---- | ---
-<img src ='screenshots/login.jpg'> | <img src ='screenshots/register.jpg'>
-Home Page | Alarms Page (empty)
-<img src ='screenshots/home.jpg'> | <img src ='screenshots/alarms-list-empty.jpg'>
-Alarm Page (with alarm creation form) | Alarms Page (with completed form)
-<img src ='screenshots/new-alarm.jpg'> | <img src ='screenshots/new-alarm-filled.jpg'>
-Alarm Page (with new alarm entry) | Alarm Ringing Page
-<img src ='screenshots/alarms-list-with-entry.jpg'> | <img src ='screenshots/alarm-ringing.jpg'>
+| Login/Register Page                                 | Login/Register Page                            |
+|-----------------------------------------------------|------------------------------------------------|
+| <img src ='screenshots/login.jpg'>                  | <img src ='screenshots/register.jpg'>          |
+| Home Page                                           | Alarms Page (empty)                            |
+| <img src ='screenshots/home.jpg'>                   | <img src ='screenshots/alarms-list-empty.jpg'> |
+| Alarm Page (with alarm creation form)               | Alarms Page (with completed form)              |
+| <img src ='screenshots/new-alarm.jpg'>              | <img src ='screenshots/new-alarm-filled.jpg'>  |
+| Alarm Page (with new alarm entry)                   | Alarm Ringing Page                             |
+| <img src ='screenshots/alarms-list-with-entry.jpg'> | <img src ='screenshots/alarm-ringing.jpg'>     |
