@@ -12,7 +12,8 @@ public class Alarm implements Serializable {
     private String label;
     private String time;
 
-    Alarm() {} //Firebase serializer requires a non-parameter constructor
+    Alarm() {} //Hi this is second
+    
 
     Alarm(String id, String days, String label, String time) {
         this.id = id;
